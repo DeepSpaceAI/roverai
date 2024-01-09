@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'A python package to assist robotics engineers incorporate re
 
 # Setting up
 setup(
-    name="astroai",
+    name="roverai",
     version=VERSION,
     author="Michael-Holland-Dev (Michael Holland)",
     author_email="<michael.w.holland@gmail.com>",
